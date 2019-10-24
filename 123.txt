@@ -1,0 +1,56 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <style>
+      table, th, td {
+        border: 1px solid black;
+      }
+    </style>
+  </head>
+  <body>
+    
+    <h1>履歷表</h1>
+    <table style="width:100">
+      <tr>
+          <td colspan="2">姓名</td>
+          <td colspan="5">廖于婷</td>
+      </tr>
+      <tr>
+          <td colspan="2">性別</td>
+          <td colspan="5">女性</td>
+      </tr>
+      <tr>
+          <td colspan="2">年齡</td>
+          <td colspan="5">20</td>
+      </tr>
+      <tr>
+          <td colspan="2">學歷</td>
+          <td colspan="5">大二</td>
+      </tr><tr>
+         <td colspan="2">工作經驗</td>
+         <td colspan="5">在全家上班</td>
+</tr>
+      <tr>
+       <td colspan="2"><th rowspan="2">自傳</th><td>
+               <td colspan="5">我是一個非常善良的小孩，請錄用我~</td>
+           </tr>
+      <tr>
+        
+          <td colspan="2"> 謝謝~</td>
+</tr><tr>
+      
+      
+      
+        
+           
+</html>
+
+CSS
+
+body{
+  background-color:lightblue;
+}
+h1{
+  color:navy;
+  margin-lift:20px;
+}
